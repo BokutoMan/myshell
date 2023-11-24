@@ -1,0 +1,2 @@
+使用以下命令编译 main.c 文件  
+gcc main.c -o myshell -lreadline
